@@ -1,0 +1,7 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,ART-SAC,145.675000,-,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,5.0W,,,,,
+2,ART-ECH,432.825000,,0.000000,Tone,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,5.0W,,,,,
+3,ERZ-PLN,145.775000,-,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,5.0W,,,,,
+4,VAN-MRK,439.400000,-,7.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,5.0W,,,,,
+5,RIZ-CAZ,145.700000,-,0.600000,Tone,100.0,88.5,023,NN,023,Tone->Tone,NFM,12.50,,5.0W,,,,,
+6,RIZ-TRT,145.725000,-,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,5.0W,,,,,
